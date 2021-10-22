@@ -15,5 +15,23 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## TODO
+### Notable New Features
+- [ ] Composition API
+- [ ] Teleport
+- [ ] Fragments
+- [ ] Emits Component Option
+- [ ] createRenderer API 
+- [ ] SFC Composition API Syntax Sugar
+- [ ] SFC State-driven CSS Variables
+- [ ] SFC can now include global rules or rules that target only slotted content
+- [ ] Suspense
+
+### Breaking Changes
+- [ ] Global API
+- [ ] Template Directives
+- [ ] Components
+- [ ] Render Function
+- [ ] Custom Elements
+- [ ] Other Minor Changes
+- [ ] Removed APIs
